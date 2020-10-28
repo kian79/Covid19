@@ -1,11 +1,10 @@
 Package: Covid19
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Fetches Covid19 data and show it.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Kian Kashfipour
+Maintainer: Kian Kashfipour <kiankr79@gmail.com>
+Description: This package fetches Covid19 data from John Hopkins university and then cleans it and shows it using different plots.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
