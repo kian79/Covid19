@@ -12,7 +12,7 @@ status](https://www.r-pkg.org/badges/version/Covid19)](https://CRAN.R-project.or
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 <!-- badges: end -->
-
+Covid19 is an R package that fetches corona data from John Hopkins University and updates it daily. You can also plot this data in different ways country by country and date by date.
 The goal of Covid19 is to present the latest corona data in the best, simplest and most comprehensible way possible.
 
 ## Installation
