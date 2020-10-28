@@ -8,3 +8,5 @@ Description: This package fetches Covid19 data from John Hopkins university and 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/kian79/Covid19
+BugReports: https://github.com/kian79/Covid19/issues
