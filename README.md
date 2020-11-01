@@ -2,7 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # Covid19
-<img src="/man/logo.png">
+<img src="/man/figure/logo.png">
 <!-- badges: start -->
 
 [![Travis build
